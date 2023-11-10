@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-react_web/static/css/main.3845f790.css",
-    "main.js": "/react-react_web/static/js/main.380b9bae.js",
-    "static/media/3.svg": "/react-react_web/static/media/3.3a40f4af8e1f3fac3bf837e3ce496df5.svg",
-    "static/media/8.svg": "/react-react_web/static/media/8.db243e39c63c0974e25ddaba11cba9d3.svg",
-    "static/media/7.svg": "/react-react_web/static/media/7.6f8c384c426b06879082a6fbf8997923.svg",
-    "static/media/4.svg": "/react-react_web/static/media/4.00eb2fadc7214b8a0ca4986dbc7b1c40.svg",
-    "static/media/about.svg": "/react-react_web/static/media/about.a8265177dd5818ecefde1c42cd69d224.svg",
-    "static/media/illustration-1.svg": "/react-react_web/static/media/illustration-1.3ad65ce4ead18aef84bbbc991922b3e1.svg",
-    "static/media/6.svg": "/react-react_web/static/media/6.c2e354c6272975ecfcef96a490614b48.svg",
-    "index.html": "/react-react_web/index.html",
-    "main.3845f790.css.map": "/react-react_web/static/css/main.3845f790.css.map",
-    "main.380b9bae.js.map": "/react-react_web/static/js/main.380b9bae.js.map"
+    "main.css": "/react_web/static/css/main.3845f790.css",
+    "main.js": "/react_web/static/js/main.85212a06.js",
+    "static/media/3.svg": "/react_web/static/media/3.3a40f4af8e1f3fac3bf837e3ce496df5.svg",
+    "static/media/8.svg": "/react_web/static/media/8.db243e39c63c0974e25ddaba11cba9d3.svg",
+    "static/media/7.svg": "/react_web/static/media/7.6f8c384c426b06879082a6fbf8997923.svg",
+    "static/media/4.svg": "/react_web/static/media/4.00eb2fadc7214b8a0ca4986dbc7b1c40.svg",
+    "static/media/about.svg": "/react_web/static/media/about.a8265177dd5818ecefde1c42cd69d224.svg",
+    "static/media/illustration-1.svg": "/react_web/static/media/illustration-1.3ad65ce4ead18aef84bbbc991922b3e1.svg",
+    "static/media/6.svg": "/react_web/static/media/6.c2e354c6272975ecfcef96a490614b48.svg",
+    "index.html": "/react_web/index.html",
+    "main.3845f790.css.map": "/react_web/static/css/main.3845f790.css.map",
+    "main.85212a06.js.map": "/react_web/static/js/main.85212a06.js.map"
   },
   "entrypoints": [
     "static/css/main.3845f790.css",
-    "static/js/main.380b9bae.js"
+    "static/js/main.85212a06.js"
   ]
 }
